@@ -1,6 +1,6 @@
 # memesta
 
-This app which will make you laugh by showing the user random memes on every click.
+This app which will make you laugh by showing you random memes on every click.
 
 
 Language - Dart 
